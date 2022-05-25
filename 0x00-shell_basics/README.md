@@ -1,1 +1,1 @@
-#!/bin/bash is the shebang and pwd is the command
+Display the contents list of your current directory
