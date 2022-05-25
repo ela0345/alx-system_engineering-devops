@@ -1,1 +1,1 @@
-Directory in tmp
+deleting  betty
